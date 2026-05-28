@@ -20,20 +20,19 @@ redirect_from:
 I am **Qiang Wang** (王强), a tenure-track Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning.
 
 # News
-+ \[Dec 2025\] Our paper "AUE: A Normalized Energy Efficiency Metric for AI Servers under LLM Workloads" (ICPADS 2025) presented by Dr. Yijia Zhang has received the Best Presentation Award. Congratulations to Yijia and our team members.
-+ \[Dec 2025\] The paper "FastTT: Accelerating Shift-XOR Erasure Coding for Data Storage" has been accepted by IPDPS 2026.
++ \[April 2026\] Our paper "DOSA: Optimizing DVFS Policy for Stochastic Workloads with Analytical Solutions" has been accepted by IWQoS 2026. Congratulations to Xuanhao Feng.
++ \[Dec 2025\] The paper "FastTT: Accelerating Shift-XOR Erasure Coding for Data Storage" has been accepted by IPDPS 2026. Congratulations to Duo Sun.
 + \[Nov 2025\] The paper "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression" has been accepted by ASPLOS 2026.
 + \[Nov 2025\] The paper "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities" has been accepted by PPoPP 2026.
 + \[Nov 2025\] The papers "SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models" and "PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling" have been accepted by AAAI 2026.
-+ \[Oct 2025\] The paper "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation" has been accepted by TCC.
-+ \[Oct 2025\] The paper "AUE: A Normalized Energy Efficiency Metric for AI Servers under LLM Workloads" has been accepted by ICPADS 2025. This paper proposes a new metric to evaluate the energy efficiency of AI servers.
-+ \[Sept 2025\] Three papers (DeepFill, CoDVFS and VAFSA) have been accepted by ICA3PP 2025.
++ \[Oct 2025\] The paper "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation" has been accepted by TCC. Congratulations to Yizhou Luo.
++ \[Oct 2025\] The paper "AUE: A Normalized Energy Efficiency Metric for AI Servers under LLM Workloads" has been accepted by ICPADS 2025. This paper proposes a new metric to evaluate the energy efficiency of AI servers, and has received the **Best Presentation Award**.
 + \[July 2025\] The paper "City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning" has been accepted by ACMMM 2025.
 + \[June 2025\] The papers "SAFormer: Spatially Adaptive Transformer for Efficient and Multi-Resolution Occupancy Prediction" and "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories" have been accepted by IROS 2025.
 + \[May 2025\] The paper "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation" has been accepted by ACL 2025 (Findings).
 + \[May 2025\] The paper "BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems" has been accepted by KDD 2025 (Datasets and Benchmarks Track).
 + \[May 2025\] The paper "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency" has been accepted by IoTJ.
-+ \[April 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has received the Best Paper Award of EuroSys 2025.
++ \[April 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has received the **Best Paper Award** of EuroSys 2025.
 + \[March 2025\] The paper "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction" has been accepted by ICME 2025.
 + \[Jan 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has been accepted by EuroSys 2025.
 + \[Jan 2025\] The paper "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs" has been accepted by ICLR 2025.
@@ -44,7 +43,7 @@ I am **Qiang Wang** (王强), a tenure-track Associate Professor at Department o
 + \[July 2024\] The papers "3D Question Answering for City Scene Understanding" and "Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model" have been accepted by ACMMM 2024.
 + \[July 2024\] The paper "Multi-Task Domain Adaptation for Language Grounding with 3D Objects" has been accepted by ECCV 2024.
 + \[May 2024\] The paper "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models" has been accepted by ICML 2024.
-+ \[April 2024\] The papers "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" and "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information" have been accepted by IWQoS 2024.
++ \[April 2024\] The papers "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" and "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information" have been accepted by IWQoS 2024. Congratulations to Yizhou Luo and Laiyi Li.
 + \[Jan 2024\] The paper "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling" has been accepted by EuroSys 2024.
 + \[Dec 2023\] The paper "Benchmarking and Dissecting the Nvidia Hopper GPU Architecture" has been accepted by IPDPS 2024.
 + \[Dec 2023\] The paper "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning" has been accepted by AAAI 2024.
