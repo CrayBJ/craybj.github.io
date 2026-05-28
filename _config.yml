@@ -22,7 +22,7 @@ baidu_site_verification: # get baidu_site_verification from https://ziyuan.baidu
 # Site Author
 author:
   name: 'Qiang Wang'
-  avatar: '/images/profile_picture.jpeg'
+  avatar: '/images/qiang.png'
   bio: 'Associate Professor, Harbin Institute of Technology (Shenzhen)'
   location: 'Shenzhen, China'
   employer:
