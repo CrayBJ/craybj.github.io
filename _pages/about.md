@@ -17,193 +17,109 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Peijie Dong** (董佩杰), a Ph.D. candidate in Data Science and Analysis Thrust at the Hong Kong University of Science and Technology (Guangzhou). Under the guidance of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen) and [Prof.Junxian He](https://jxhe.github.io/). My research interests are in the fields of model compression, efficient large language models, and machine learning systems.
-
-
-**Research Interests**
-
-My research focuses on enhancing the efficiency and accessibility of deep learning models, particularly in the following areas:
-
-- Model Compression: Exploring pruning, quantization, and knowledge distillation techniques to reduce model size and computational demands.
-- Efficient Large Language Models: Optimizing LLM training and inference through innovative architectures and deployment strategies.
-- Automated Machine Learning (AutoML): Developing methods to streamline the ML pipeline, from architecture search to hyperparameter optimization.
-
-My goal is to contribute significantly to the development of more efficient and accessible machine learning systems. Through my research, I strive to push the boundaries of what's possible in model compression, efficient large language models, and automated machine learning. If you share similar interests or would like to discuss potential collaborations, I warmly invite you to reach out to me. I'm always eager to connect with fellow researchers and industry professionals to exchange ideas and explore new opportunities in this exciting field.
-
-# 🔥 News
-
-- [2026.05] &nbsp;🎉🎉 Our paper "Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression" is accepted by ICML 2026.
-
-- [2026.05] &nbsp;🎉🎉 Our paper "VCG-Bench: Towards A Unified Visual-Centric Benchmark for Structured Generation and Editing" is accepted by ICML 2026.
-
-- [2026.05] &nbsp;🎉🎉 Our paper "Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training" is accepted by ICML 2026.
-
-- [2026.01] &nbsp;🎉🎉 Our Paper "Smooth Reading: Bridging the Gap of Recurrent LLM to Self-Attention LLM on Long-Context Understanding" is accepted by ICLR2026.
-
-- [2025.11] &nbsp;🎉🎉 Two years after graduation, I was selected as an outstanding master's student at the NUDT in Hunan Province.
-
-- [2025.09] &nbsp;🎉🎉 Our Paper "ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference" is accepted by NeurIPS 2025. 
-
-- [2025.08] &nbsp;🎉🎉 Our Paper "Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research" is accepted by EMNLP 2025 findings. 
-
-- [2025.08] &nbsp;🎉🎉 Our Paper "Smooth Reading: Bridging the Gap of Recurrent LLM to Self-Attention LLM on Long-Context Tasks" is released to [arxiv.](https://arxiv.org/pdf/2507.19353)
-
-- [2025.08] &nbsp;🎉🎉 Our Paper "Intern-S1: A Scientific Multimodal Foundation Model" is released to [arxiv.](https://arxiv.org/abs/2508.15763) Great work by Intern-S1 team.
-
-- [2025.05] &nbsp;🎉🎉 Our Paper "Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compresssion" is accepted by ICML25. We are especially grateful to the reviewer who awarded us a '5 (Strong Accept)'.
-
-- [2025.04] &nbsp;🎉🎉 I've been invited to be an Area Chair in NeurIPS 2025.
-
-- [2025.02] &nbsp;🎉🎉 Congratulations to our team (lead by @Ruibo) to get "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" accepted by EuroSys 2025 as **Best Paper** !!!
-
-- [2025.02] &nbsp;🎉🎉 I am awarded the **Excellent Research Prize** for the 2024 DSA Excellent Research Award!!!
-
-- [2025.01] &nbsp;🎉🎉 Our STBLLM is accepted by ICLR25. STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs, International Conference on Learning Representations, 2025.
-
-- [2025.01] &nbsp;🎉🎉 Our Lottery LLM Hypothesis is accepted by ICLR25 Blogpost **Oral**. The Lottery LLM Hypothesis, Rethinking What Abilities Should LLM Compression Preserve?, International Conference on Learning Representations Blog Track **Oral**, 2025.
-
-- [2025.01] &nbsp;🎉🎉 Our ParZC is accepted by AAA25 (**Oral**). ParZC: Parametric Zero-Cost Proxies for Efficient NAS, Association for the Advancement of Artificial Intelligence, 2025.
-
-- [2024.12] &nbsp;🎉🎉 I was invited to give a talk to PDL about "Introduction to LLM Compression and Beyond".
-
-- [2024.10] &nbsp;🎉🎉 FuseFL is accepted by NeurIPS 2024 (Spotlight). FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Layer Fusion, Neural Information Processing Systems (NeurIPS) Spotlight, 2024.
-
-- [2024.10] &nbsp;🎉🎉 DSA is accepted by NeurIPS 2024, Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models, Neural Information Processing Systems (NeurIPS), 2024.
-
-- [2024.10] &nbsp;🎉🎉 Our paper "Should we really edit language models? on the evaluation of edited language models" is accepted by NeurIPS 2024.
-
-- [2024.10] &nbsp;🎉🎉 LPZero is accepted by EMNLP 2024. LPZero: Language Model Zero-cost Proxy Search from Zero, Empirical Methods in Natural Language Processing (EMNLP), 2024. ([paper](https://arxiv.org/abs/2410.04808), [code](https://github.com/pprp/LPZero))
-
-- [2024.10] &nbsp;🎉🎉 LongGenBench is accepted by EMNLP 2024. LongGenBench: Long-context Generation Benchmark, Empirical Methods in Natural Language Processing (EMNLP), 2024.
-
-- [2024.05] &nbsp;🎉🎉 Pruner-Zero is accepted by ICML 2024. This work evolves symbolic pruning metrics from scratch for large language models. ([paper](https://arxiv.org/abs/2406.02924v1), [code](https://github.com/pprp/Pruner-Zero))
-
-- [2024.03] &nbsp;🎉🎉 VMRNN is available. This work proposes the VMRNN cell, a new recurrent unit that integrates the strengths of Vision Mamba blocks with LSTM. We construct a network centered on VMRNN cells to tackle spatiotemporal prediction tasks effectively. ([paper](https://arxiv.org/abs/2403.16536), [code](https://github.com/yyyujintang/VMRNN-PyTorch))
-
-- [2023.12] &nbsp;🎉🎉 KD-Zero is accepted by NeurIPS 2023. This work evolves knowledge distiller for any teacher-student pairs. ([paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/dbc8ce0fdfcd55172d73fb05dbae07fc-Paper-Conference.pdf))
-
-- [2023.10] &nbsp;🎉🎉 EMQ is accepted by ICCV 2023. This work evolves training-free proxies for automated mixed precision quantization. ([paper](https://arxiv.org/abs/2307.10554), [code](https://github.com/lliai/EMQ-series))
-
-- [2023.10] &nbsp;🎉🎉 AutoKD: Automated KD via MCTS is accepted by ICCV 2023. This work proposes automated knowledge distillation via Monte Carlo Tree Search. ([paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Automated_Knowledge_Distillation_via_Monte_Carlo_Tree_Search_ICCV_2023_paper.pdf))
-
-- [2023.03] &nbsp;🎉🎉 DisWOT is accepted by CVPR 2023. This work proposes student architecture search for distillation without training. ([paper](https://arxiv.org/abs/2303.15678), [code](https://github.com/lliai/DisWOT-CVPR2023))
-
-- [2023.02] &nbsp;🎉🎉 Progressive Meta-Pooling Learning is accepted by ICASSP 2023. This work proposes a lightweight image classification model. ([paper](https://arxiv.org/abs/2301.10038))
-
-- [2023.02] &nbsp;🎉🎉 RD-NAS is accepted by ICASSP 2023. This work enhances one-shot supernet ranking ability via ranking distillation. ([paper](https://arxiv.org/abs/2301.09850))
-
-- [2023.01] &nbsp;🎉🎉 AutoRF is accepted by MMM 2022. This work proposes auto learning receptive fields with spatial pooling. ([paper](https://link.springer.com/chapter/10.1007/978-3-031-27818-1_56))
-
-- [2022.06] &nbsp;🎉🎉 Prior-Guided One-shot NAS is accepted by CVPR Workshop 2022. This work proposes prior-guided one-shot neural architecture search. ([paper](https://arxiv.org/abs/2206.13329))
-
-## 📖 Educations
-
-- _2023.09 - now_, The Hong Kong University of Science and Technology (Guangzhou), PhD Candidate in Computer Science
-
-  - Supervisor: Prof. Xiaowen Chu
-  - Research Interests: Large Language Models, Model Compression
-
-- _2020.09 - 2023.06_, National University of Defence Technology, Master of Engineering
-
-  - Supervisor: Prof. Xin Niu
-  - Research Interests: AutoML, Neural Architecture Search
-  - Achievement: Outstanding Graduate
-
-- _2016.09 - 2020.06_, Northwest Agriculture & Forestry University, B.S. in Software Engineering
-  - GPA: 3.78/4.0 (Ranked 1st out of 93)
-  - Advisor: Prof. Hongming Zhang
-  - Achievements: National Scholarship, Principal's Scholarship, Outstanding Graduate
-  - Research Interests: Object Detection, Multi-Object Tracking
-
-## 💻 Internship
-
-- 10/2025–present: Intern, Alibaba – large-scale model training  
-- 03/2025–08/2025: Intern, Shanghai AI Lab – AI infrastructure for Xtuner project  
-- 05/2022–08/2022: Intern, Shanghai AI Lab – model compression with MMRazor
-
-<!-- # 📕 Teaching
-
-- Teaching Assistant at HKBU
-  - 2023 Spring Semester, COMP7940 Cloud Computing
-  - 2022 Fall Semester, COMP7015 Artiﬁcial Intelligence
-  - 2022 Spring Semester, COMP 7550 IT Project Management
-  - 2021 Fall Semester, COMP 7015, Artificial Intelligence
-  - 2021 Spring Semester, COMP 7930, Big Data Analytics -->
-
-# 👔 Professional Activities
-
-- **2022**: ICASSP
-- **2023**: NeurIPS, ICASSP, CIM
-- **2024**:
-  - _Conferences_: NeurIPS, ICLR, CVPR, ECCV, ICASSP, ACL (ARR)
-  - _Journals_: TPAMI, Neural Networks, Information Fusion, CIM
-- **2025**:
-  - _Conferences_: NeurIPS (AC), ICLR, CVPR, ECCV, ICASSP
-  - _Journals_: IJCV, Neural Networks
-- **2026**：
-  - _Conferences_: AAAI (PC), WACV, NeurIPS, ICLR
-  - _Journals_: Neural Networks
-
-# 🎖 Honors and Awards
-
-- 2024, Best Speaker in DSA Salon 2024.
-- 2023, Outstanding Graduate at School Level, National University of Defense Technology.
-- 2022, 1st Place, BDCI Retail Product Recognition based on MindSpore (CCF Big Data & Computing Intelligence Contest).
-- 2022, 1st Place, DCIC Intelligent Ship Detection Competition (Digital China Innovation Contest).
-- 2022, 2nd Place, DCIC Intelligent Cattle Segmentation Competition (Digital China Innovation Contest).
-- 2022, 1st Place, Baidu AI Competition - Blurred Document Image Recovery.
-- 2022, 3rd Place, Computer Vision and Pattern Recognition (CVPR) Third Workshop on NAS.
-- 2021, Outstanding MindSpore Developer.
-- 2020, Outstanding Dissertation, Northwest A&F University.
-- 2020, Outstanding Graduate, Northwest A&F University.
-- 2017, President's Scholarship, Northwest A&F University.
-- 2016, National Scholarship, Northwest A&F University.
-
-# 📝 Publications
-
-Selected papers: EuroSys(Best Paper), AAAIx1(Oral), NeurIPSx1(Spotlight), ICMLx5, EMNLPx1, CVPRx1, ICCVx1, ICASSPx2, ICLRx2(Oralx1).
-
-- X. Liu, Z. Tang, H. Chen, **P. Dong**, Z. Li, X. Zhou, B. Li, X. Hu, X. Chu. Semantic Integrity Matters: Benchmarking and Preserving High-Density Reasoning in KV Cache Compression. In ICML 2026.
-
-- X. Su, **P. Dong**, Z. Tang, S. Tang, Y. Zhai, K. Lin, L. Chen, Y. Gai, Y. Luo, Q. Wang, X. Chu. VCG-Bench: Towards A Unified Visual-Centric Benchmark for Structured Generation and Editing. In ICML 2026.
-
-- Z. Tang, J. Huang, Z. Tang, X. Kang, Y. Wang, **P. Dong**, S. Shi, X. Chu, B. Li. Identifying and Mitigating Errors in Gradient Aggregation of Distributed Data Parallel Training. In ICML 2026.
-
-- **P. Dong**, Z. Tang, X. Liu, L. Li, X. Chu, B. Li. Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression. In ICML2025.
-
-- R. Fan, X. Yu, **P. Dong**, Z. Li, G. Gong, Q. Wang, W. Wang, X. Chu. SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs. In EuroSys2025, **Best Paper**.
-
-- **P. Dong**, L. Li, Z. Tang, X. Liu, Z. Wei, Q. Wang, X. Chu. ParZC: Parametric Zero-Cost Proxies for Efficient NAS. In AAAI2025, Oral.
-
-- **P. Dong**, L. Li, Y. Zhong, D. Du, R. Fan, Y. Chen, Z. Tang, Q. Wang, W. Xue, Y. Guo, X. Chu. STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs. In ICLR2025.
-
-- L. Li, **P. Dong**, Z. Tang, X. Liu, X. Pan, X. Chu. Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models. In NeurIPS 2024.
-
-- Q. Li, X. Liu, Z. Tang, **P. Dong**, Z. Li, X. Pan, X. Chu, Should We Really Edit Language Models? On the Evaluation of Edited Language Models. In NeurIPS 2024.
-
-- **P. Dong**, L. Li, Z. Tang, X. Liu, X. Pan, Q. Wang, X. Chu. Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models. In ICML 2024.
-
-- **P. Dong**, L. Li, X. Liu, Z. Tang, X. Liu, Q. Wang, X. Chu. LPZero: Language Model Zero-cost Proxy Search from Zero, Empirical Methods in Natural Language Processing (EMNLP), 2024.
-
-- X. Liu, **P. Dong**, X. Hu, X. Chu. LongGenBench: Long-context Generation Benchmark. In EMNLP 2024.
-
-- Z. Tang, Y. Zhang, **P. Dong**, Y. Cheung, A. C. Zhou, B. Han, X. Chu. FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Layer Fusion. In NeurIPS Spotlight 2024.
-
-- **P. Dong**, L. Li, Z. Wei. DisWOT: Student Architecture Search for Distillation without Training. In CVPR 2023.
-
-- **P. Dong**, L. Li, Z. Wei, X. Niu$^*$, Z. Tian, H. Pan. EMQ: Evolving Training-free Proxies for Automated Mixed Precision Quantization. In ICCV 2023.
-
-- L. Li, **P. Dong**, A. Li, Z. Wei, Y. Yang. Kd-zero: Evolving knowledge distiller for any teacher-student pairs. In NeurIPS 2023.
-
-- **P. Dong**, X. Niu, Z. Tian, et al. Progressive Meta-Pooling Learning for Lightweight Image Classification Model. In ICASSP 2023.
-
-- **P. Dong**, X. Niu, L. Li, et al. RD-NAS: Enhancing One-shot Supernet Ranking Ability via Ranking Distillation. In ICASSP 2023.
-
-- **P. Dong**, X. Niu, H. Pan, et al. AutoRF: Auto Learning Receptive Fields with Spatial Pooling. In MMM 2023.
-
-- **P. Dong**, X. Niu, L. Li, et al. Prior-Guided One-shot Neural Architecture Search. In CVPR Workshop 2022.
-
-- L. Li, **P. Dong**, Z. Wei, Y. Ya. Automated Knowledge Distillation via Monte Carlo Tree Search. In ICCV 2023.
+I am **Qiang Wang** (王强), a tenure-track Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning.
+
+# News
++ \[Dec 2025\] Our paper "AUE: A Normalized Energy Efficiency Metric for AI Servers under LLM Workloads" (ICPADS 2025) presented by Dr. Yijia Zhang has received the Best Presentation Award. Congratulations to Yijia and our team members.
++ \[Dec 2025\] The paper "FastTT: Accelerating Shift-XOR Erasure Coding for Data Storage" has been accepted by IPDPS 2026.
++ \[Nov 2025\] The paper "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression" has been accepted by ASPLOS 2026.
++ \[Nov 2025\] The paper "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities" has been accepted by PPoPP 2026.
++ \[Nov 2025\] The papers "SALR: Sparsity-Aware Low-Rank Representation for Efficient Fine-Tuning of Large Language Models" and "PipeDiT: Accelerating Diffusion Transformers in Video Generation with Task Pipelining and Model Decoupling" have been accepted by AAAI 2026.
++ \[Oct 2025\] The paper "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation" has been accepted by TCC.
++ \[Oct 2025\] The paper "AUE: A Normalized Energy Efficiency Metric for AI Servers under LLM Workloads" has been accepted by ICPADS 2025. This paper proposes a new metric to evaluate the energy efficiency of AI servers.
++ \[Sept 2025\] Three papers (DeepFill, CoDVFS and VAFSA) have been accepted by ICA3PP 2025.
++ \[July 2025\] The paper "City-VLM: Towards Multidomain Perception Scene Understanding via Multimodal Incomplete Learning" has been accepted by ACMMM 2025.
++ \[June 2025\] The papers "SAFormer: Spatially Adaptive Transformer for Efficient and Multi-Resolution Occupancy Prediction" and "RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories" have been accepted by IROS 2025.
++ \[May 2025\] The paper "UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation" has been accepted by ACL 2025 (Findings).
++ \[May 2025\] The paper "BurstGPT: A Real-World Workload Dataset to Optimize LLM Serving Systems" has been accepted by KDD 2025 (Datasets and Benchmarks Track).
++ \[May 2025\] The paper "SCFusion: Enhance Infrared and Visible Modality Fusion by Preserving Salient Object Consistency" has been accepted by IoTJ.
++ \[April 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has received the Best Paper Award of EuroSys 2025.
++ \[March 2025\] The paper "CMRFusion: Efficient Feature Decomposition for RGB-T Fusion via Cross Modality Mask Reconstruction" has been accepted by ICME 2025.
++ \[Jan 2025\] The paper "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs" has been accepted by EuroSys 2025.
++ \[Jan 2025\] The paper "STBLLM: Breaking the 1-Bit Barrier with Structured Binary LLMs" has been accepted by ICLR 2025.
++ \[Dec 2024\] The paper "ParZC: Parametric Zero-Cost Proxies for Efficient NAS" has been accepted by AAAI 2025.
++ \[Nov 2024\] The paper "SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion" has been accepted by 3DV 2025.
++ \[Sept 2024\] The paper "Discovering Sparsity Allocation for Layer-wise Pruning of Large Language Models" has been accepted by NeurIPS 2024.
++ \[Sept 2024\] The paper "LPZero: Language Model Zero-cost Proxy Search from Zero" has been accepted by EMNLP Findings 2024.
++ \[July 2024\] The papers "3D Question Answering for City Scene Understanding" and "Data Generation Scheme for Thermal Modality with Edge-Guided Adversarial Conditional Diffusion Model" have been accepted by ACMMM 2024.
++ \[July 2024\] The paper "Multi-Task Domain Adaptation for Language Grounding with 3D Objects" has been accepted by ECCV 2024.
++ \[May 2024\] The paper "Pruner-Zero: Evolving Symbolic Pruning Metric From Scratch for Large Language Models" has been accepted by ICML 2024.
++ \[April 2024\] The papers "Scheduling Deep Learning Jobs in Multi-Tenant GPU Clusters via Wise Resource Sharing" and "DSO: A GPU Energy Efficiency Optimizer by Fusing Dynamic and Static Information" have been accepted by IWQoS 2024.
++ \[Jan 2024\] The paper "ScheMoE: An Extensible Mixture-of-Experts Distributed Training System with Tasks Scheduling" has been accepted by EuroSys 2024.
++ \[Dec 2023\] The paper "Benchmarking and Dissecting the Nvidia Hopper GPU Architecture" has been accepted by IPDPS 2024.
++ \[Dec 2023\] The paper "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning" has been accepted by AAAI 2024.
++ \[Sept 2023\] The paper "Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance" has been accepted by EuroSys 2024.
++ \[July 2023\] The paper "Explicify Neural Implicit Fields for Efficient Dynamic Human Avatar Modeling via a Neural Explicit Surface" has been accepted by ACMMM 2023.
++ \[November 2022\] The paper “Rethinking Disparity: A depth range free Multi-View Stereo based on Disparity” has been accepted by AAAI 2023. 
++ \[August 2022\] The paper “SphereDepth: Panorama Depth Estimation from Spherical Domain” has been accepted by 3DV 2022. 
++ \[August 2022\] The paper “Scale-Consistent Fusion: from Heterogeneous Local Sampling to Global Immersive Rendering” has been accepted by TIP. 
++ \[July 2022\] The paper “EASNet:Searching Elastic and Accurate Network Architecture for Stereo Matching” has been accepted by ECCV 2022. 
++ \[May 2022\] The paper “Energy-aware Non-preemptive Task Scheduling with Deadline Constraint in DVFS-enabled Heterogeneous Clusters” has been accepted by IEEE TPDS. 
++ \[April 2022\] The paper “Energy-efficient Online Scheduling of Transformer Inference Services on GPU Servers” has been accepted by IEEE Transactions on Green Communications and Networking (TGCN). 
++ \[March 2021\] The paper “IRS: A Large Naturalistic Indoor Robotics Stereo Dataset to Train Deep Models for Disparity and Surface Normal Estimation” has been accepted by ICME 2021.
++ \[March 2021\] The paper “EDNet: Efficient Disparity Estimation with Cost Volume Combination and Attention-based Spatial Residual” has been accepted by CVPR 2021.
++ \[December 2020\] The paper “Energy-Efficient Inference Service of Transformer-Based Deep Learning Models on GPUs” has received the Best Paper Award of IEEE GreenCom 2020.
++ \[September 2020\] I started my academic position as a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University.
++ \[June 2020\] The paper "GPGPU Performance Estimation with Core and Memory Frequency Scaling" has been accepted by IEEE TPDS.
++ \[January 2020\] The paper "FADNet: A Fast and Accurate Network for Disparity Estimation" has been accepted by ICRA 2020.
+
+# Biography
++ 2015-2020, Ph.D., Hong Kong Baptist University, supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
++ 2010-2014, B.E., Computer Science and Technology, South China University of Technology, China
+
+# Work Experience
++ 2025.01-present, Associate Professor (tenure-track), Harbin Institute of Technology (Shenzhen)
++ 2022.05-2024.12, Assistant Professor, Harbin Institute of Technology (Shenzhen)
++ 2022.01-2022.05, Senior Engineer, Tencent (Shenzhen)
++ 2020.09-2022.01, Research Assistant Professor, Hong Kong Baptist University
++ 2020.06-2020.08, Research Intern, Alibaba Ant Technology Group (Beijing)
++ 2019.08-2020.05, Research Intern, Nvidia Corporation
++ 2019-2020, Research Assistant, Hong Kong Baptist University, supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
++ 2015-2019, Teaching Assistant, Department of Computer Science, Hong Kong Baptist University
++ 2014-2015, Research Assistant, Hong Kong Baptist University, supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
+
+# Awards
++ 2025, HW Talent Funding Awardee
++ 2025, EuroSys 2025, Best Paper Award
++ 2020, IEEE GreenCom 2020, Best Paper Award
++ 2020, RPg Performance Award Scheme, Hong Kong Baptist University \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
++ 2018, IEEE DataCom 2018, Best Paper Award
++ 2016-2019, Excellent Teaching Assistant Performance Award \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
++ 2015, Hong Kong PhD Fellowship Awardee \[[link](https://cerg1.ugc.edu.hk/hkpfs/index.html)\] \[[link](https://www.comp.hkbu.edu.hk/v1/?pid=48)\]
++ 2013, American Mathematical Contest in Modeling, Honorable Prize
++ 2011, National Scholarship
+
+# Professional Activities
++ Conference Organizer
+    + [IEEE MetaCom 2025](https://ieee-metacom.org/tech-committee.html), Track Chair of "Metaverse Computing, Architectures, and Applications"
+    + [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/committees/organizing-committee), Web Chair
++ Invited Program Committee Member/Reviewer for Conferences (the number counts the contributed reviews.)
+    + 2026: CVPR, ICLR(1), AAAI(4), ICDCS, IROS
+    + 2025: ICDCS(8), NeurIPS D&B(3), ICCV(2), ACMMM(3), CVPR(3), WACV(2), AAAI(4), ICME(3), ACL(2)
+    + 2024: ECCV(3), CVPR(2), AAAI(2), IWQoS(5)
+    + 2023: AAAI(3), WACV(1), HiPC, BigCom(5)
+    + 2022: GreenCom, HPCC, HiPC(3)
+    + 2021: HPCC(6), HiPC(4), ICPADS(2), ICRA(1)
++ Invited Reviewer for Journals
+    + IEEE Transactions on Computers (TC)
+    + IEEE Transactions on Parallel and Distributed Systems (TPDS)
+    + IEEE Transactions on Network Science and Engineering (TNSE)
+    + IEEE Transactions on Cloud Computing (TCC)
+    + IEEE Transactions on Sustainable Computing (TSUSC)
+    + IEEE Transactions on Big Data (TBD)
+    + IEEE/ACM Transactions on Networking (ToN)
+    + ACM Transactions on Design Automation of Electronic Systems (TODAES)
+    + IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    + IEEE Transactions on Dependable and Secure Computing (TDSC)
+    + IEEE Robotics and Automation Letters (RA-L)
+    + IEEE Network
+    + IEEE Pervasive Computing (PC)
+    + IEEE Access
+    + ACM Computing Surveys (CSUR)
+    + Computer Vision and Image Understanding (CVIU)
+    + Future Generation Computer Systems (FGCS)
+    + Expert Systems With Applications (ESWA)
+    + Journal of System Architecture (JSA)
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
