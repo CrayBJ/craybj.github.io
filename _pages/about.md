@@ -129,5 +129,3 @@ I am **Qiang Wang** (王强), a tenure-track Associate Professor at Department o
 </div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=A14sfU1mQ29eKVjBuoPG6sP2CDJtNGaWlvKC81sqnrg&cl=ffffff&w=a"></script>
