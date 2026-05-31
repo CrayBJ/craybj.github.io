@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Qiang Wang** (王强), a tenure-track Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning.
+I am **Qiang Wang** (王强), an Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning.
 
 # News
 + \[April 2026\] Our paper "DOSA: Optimizing DVFS Policy for Stochastic Workloads with Analytical Solutions" has been accepted by IWQoS 2026. Congratulations to Xuanhao Feng.
@@ -67,15 +67,13 @@ I am **Qiang Wang** (王强), a tenure-track Associate Professor at Department o
 + 2010-2014, B.E., Computer Science and Technology, South China University of Technology, China
 
 # Work Experience
-+ 2025.01-present, Associate Professor (tenure-track), Harbin Institute of Technology (Shenzhen)
++ 2025.01-present, Associate Professor, Harbin Institute of Technology (Shenzhen)
 + 2022.05-2024.12, Assistant Professor, Harbin Institute of Technology (Shenzhen)
 + 2022.01-2022.05, Senior Engineer, Tencent (Shenzhen)
 + 2020.09-2022.01, Research Assistant Professor, Hong Kong Baptist University
 + 2020.06-2020.08, Research Intern, Alibaba Ant Technology Group (Beijing)
 + 2019.08-2020.05, Research Intern, Nvidia Corporation
-+ 2019-2020, Research Assistant, Hong Kong Baptist University, supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
-+ 2015-2019, Teaching Assistant, Department of Computer Science, Hong Kong Baptist University
-+ 2014-2015, Research Assistant, Hong Kong Baptist University, supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
++ 2019-2020/2014-2015, Research Assistant, Hong Kong Baptist University, supervised by [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen)
 
 # Awards
 + 2025, HW Talent Funding Awardee
