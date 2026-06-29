@@ -3,17 +3,14 @@ main:
   - title: "Home"
     url: "/"
 
-  - title: "Writing"
-    url: "/blog/"
+  - title: "Publications"
+    url: "/publications/"
 
-  - title: "Notes"
-    url: "/notes/"
+  - title: "Teaching"
+    url: "/teaching/"
 
   - title: "Projects"
-    url: "/production/"
+    url: "/projects/"
 
-  - title: "Research"
-    url: "/#-publications"
-
-  - title: "About"
-    url: "/#about-me"
+  - title: "Members"
+    url: "/members/"
