@@ -11,6 +11,9 @@ author_profile: true
 
 
 ## Conference
++ [C57] Weile Luo, Yibin Ma, Yuhan Chen, Ruibo Fan, Hongyuan Liu, **Qiang Wang**, Xiaowen Chu, "Same Cache, Different Latency: Understanding and Exploiting L2 Partition Locality in GPUs", IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.
++ [C56] Jiaxin Lai, Yizhou Luo, **Qiang Wang**, "WAQ-LLM: Optimizing Multi-Instance LLM Deployment via Workload-Aware Queueing Model", International Conference on Parallel Processing (ICPP), 2026.
++ [C55] Xuanhao Feng, **Qiang Wang**, "DOSA: Optimizing DVFS Policy for Stochastic Workloads with Analytical Solutions," IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026.
 + [C54] Duo Sun, Ximing Fu, **Qiang Wang**, "FastTT: Accelerating Shift-XOR Erasure Coding for Data Storage", IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2026.
 + [C53] Ruibo Fan, Xiangrui Yu, Xinglin Pan, Zeyu Li, Weile Luo, **Qiang Wang**, Wei Wang, Xiaowen Chu, "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression", the ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2026.
 + [C52] Weile Luo, Yuhan Chen, Xiangrui Yu, **Qiang Wang**, Ruibo Fan, Hongyuan Liu, Xiaowen Chu, "ROME: Maximizing GPU Efficiency for All-Pairs Shortest Path via Taming Fine-Grained Irregularities", ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP), 2026.
@@ -67,6 +70,7 @@ author_profile: true
 + [C1] Shaohuai Shi, **Qiang Wang**, Pengfei Xu, and Xiaowen Chu, "Benchmarking State-of-the-Art Deep Learning Software Tools," the 7th International Conference on Cloud Computing and Big Data (CCBD), 2016.
 
 ## Journal
++ [J14] Ruibo Fan, Xiangrui Yu, Peijie Dong, Zeyu Li, Gu Gong, **Qiang Wang**, Wei Wang, Xiaowen Chu, "Exploiting Low-Level Sparsity for Efficient Large Language Model Inference on GPU with SpInfer", ACM Transactions on Computer Systems (TOCS), 2026.
 + [J13] Yizhou Luo, Jiaxin Lai, Shaohuai Shi, Chen Chen, Shuhan Qi, Jiajia Zhang, **Qiang Wang**, "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation," IEEE Transactions on Cloud Computing (TCC), 2025.
 + [J12] Yifei Liu, Chen Chen, **Qiang Wang**, Yu Feng, Weihao Cui, Quan Chen, Minyi Guo, "Ares: Fair and Efficient Scheduling of Deep Learning Jobs with Elastic Fair Queuing", ACM Transactions on Architecture and Code Optimization (TACO), 2025.
 + [J11] Shuhan Qi, Shuhao Zhang, **Qiang Wang**, Jiajia Zhang, Xuan Wang, "Distributed Scalable Multi-Agent Reinforcement Learning with Intrinsic-Episodic Dual Exploration", Future Generation of Computer Systems (FGCS), 2025.

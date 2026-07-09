@@ -20,6 +20,9 @@ redirect_from:
 I am **Qiang Wang** (王强), an Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning.
 
 # News
++ \[July 2026\] The paper "Same Cache, Different Latency: Understanding and Exploiting L2 Partition Locality in GPUs" has been accepted by MICRO 2026. Congratulations to Weile Luo and Yibin Ma.
++ \[July 2026\] The paper "Exploiting Low-Level Sparsity for Efficient Large Language Model Inference on GPU with SpInfer" has been accepted by TOCS 2026.
++ \[July 2026\] The paper "WAQ-LLM: Optimizing Multi-Instance LLM Deployment via Workload-Aware Queueing Model" has been accepted by ICPP 2026. Congratulations to Jiaxin Lai and Yizhou Luo.
 + \[April 2026\] Our paper "DOSA: Optimizing DVFS Policy for Stochastic Workloads with Analytical Solutions" has been accepted by IWQoS 2026. Congratulations to Xuanhao Feng.
 + \[Dec 2025\] The paper "FastTT: Accelerating Shift-XOR Erasure Coding for Data Storage" has been accepted by IPDPS 2026. Congratulations to Duo Sun.
 + \[Nov 2025\] The paper "ZipServ: Fast and Memory-Efficient LLM Inference with Hardware-Aware Lossless Compression" has been accepted by ASPLOS 2026.
