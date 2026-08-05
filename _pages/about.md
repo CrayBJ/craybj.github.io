@@ -20,6 +20,7 @@ redirect_from:
 I am **Qiang Wang** (王强), an Associate Professor at Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen. Before that, he was a Research Assistant Professor at Department of Computer Science, Hong Kong Baptist University and a Senior Engineer at Tencent (Shenzhen). He received his B.E. degree from South China University of Technology in 2014, and his Ph.D. degree at Department of Computer Science, Hong Kong Baptist University, under supervision of [Prof. Xiaowen Chu](https://sites.google.com/view/chuxiaowen), in 2020. His research interests include GPU Computing, Energy Efficiency, Distributed Computing, and High Performance Machine Learning.
 
 # News
++ \[Aug 2026\] The paper "Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training" has been accepted by Pacific Graphics (PG) 2026. Congratulations to Dr. Yang Yixiong and Sisheng Zhang.
 + \[July 2026\] The paper "SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation" has been accepted by ACMMM 2026.
 + \[July 2026\] The paper "Same Cache, Different Latency: Understanding and Exploiting L2 Partition Locality in GPUs" has been accepted by MICRO 2026. Congratulations to Weile Luo and Yibin Ma.
 + \[July 2026\] The paper "Exploiting Low-Level Sparsity for Efficient Large Language Model Inference on GPU with SpInfer" has been accepted by TOCS 2026.
