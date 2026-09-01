@@ -8,7 +8,7 @@ author_profile: true
 # News
 + \[Aug 2026\] The paper "Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training" has been accepted by Pacific Graphics (PG) 2026. Congratulations to Dr. Yang Yixiong and Sisheng Zhang.
 + \[July 2026\] The paper "SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation" has been accepted by ACMMM 2026.
-+ \[July 2026\] The paper "Same Cache, Different Latency: Understanding and Exploiting L2 Partition Locality in GPUs" has been accepted by MICRO 2026. Congratulations to Weile Luo and Yibin Ma.
++ \[July 2026\] The paper "Same Cache, Different Latency: Understanding and Exploiting L2 Domain Locality in GPUs" has been accepted by MICRO 2026. Congratulations to Weile Luo and Yibin Ma.
 + \[July 2026\] The paper "Exploiting Low-Level Sparsity for Efficient Large Language Model Inference on GPU with SpInfer" has been accepted by TOCS 2026.
 + \[July 2026\] The paper "WAQ-LLM: Optimizing Multi-Instance LLM Deployment via Workload-Aware Queueing Model" has been accepted by ICPP 2026. Congratulations to Jiaxin Lai and Yizhou Luo.
 + \[April 2026\] Our paper "DOSA: Optimizing DVFS Policy for Stochastic Workloads with Analytical Solutions" has been accepted by IWQoS 2026. Congratulations to Xuanhao Feng.

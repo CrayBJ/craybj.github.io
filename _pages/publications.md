@@ -13,7 +13,7 @@ author_profile: true
 ## Conference
 + [C59] Yixiong Yang, Sisheng Zhang, Qingsong Yan, Shaohuai Shi, **Qiang Wang**, "Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training", Pacific Graphics (PG), 2026.
 + [C58] Song Tang, Kaiyong Zhao, Yuliang Li, Qingsong Yan, Penglei Sun, Junyi Zou, **Qiang Wang**, Xiaowen Chu, "SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation", ACM Multimedia (ACMMM), 2026.
-+ [C57] Weile Luo, Yibin Ma, Yuhan Chen, Ruibo Fan, Hongyuan Liu, **Qiang Wang**, Xiaowen Chu, "Same Cache, Different Latency: Understanding and Exploiting L2 Partition Locality in GPUs", IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.
++ [C57] Weile Luo, Yibin Ma, Yuhan Chen, Ruibo Fan, Hongyuan Liu, **Qiang Wang**, Xiaowen Chu, "Same Cache, Different Latency: Understanding and Exploiting L2 Domain Locality in GPUs", IEEE/ACM International Symposium on Microarchitecture (MICRO), 2026.
 + [C56] Jiaxin Lai, Yizhou Luo, **Qiang Wang**, "WAQ-LLM: Optimizing Multi-Instance LLM Deployment via Workload-Aware Queueing Model", International Conference on Parallel Processing (ICPP), 2026.
 + [C55] Xuanhao Feng, **Qiang Wang**, "DOSA: Optimizing DVFS Policy for Stochastic Workloads with Analytical Solutions," IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026.
 + [C54] Duo Sun, Ximing Fu, **Qiang Wang**, "FastTT: Accelerating Shift-XOR Erasure Coding for Data Storage", IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2026.
