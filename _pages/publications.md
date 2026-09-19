@@ -72,6 +72,7 @@ author_profile: true
 + [C1] Shaohuai Shi, **Qiang Wang**, Pengfei Xu, and Xiaowen Chu, "Benchmarking State-of-the-Art Deep Learning Software Tools," the 7th International Conference on Cloud Computing and Big Data (CCBD), 2016.
 
 ## Journal
++ [J15] Weile Luo, Ruibo Fan, Zeyu Li, Dayou Du, Hongyuan Liu, **Qiang Wang**, Xiaowen Chu, "Dissecting the NVIDIA Hopper Architecture through Microbenchmarking and Multiple Level Analysis", ACM Transactions on Computer Systems (TOCS), 2026.
 + [J14] Ruibo Fan, Xiangrui Yu, Peijie Dong, Zeyu Li, Gu Gong, **Qiang Wang**, Wei Wang, Xiaowen Chu, "Exploiting Low-Level Sparsity for Efficient Large Language Model Inference on GPU with SpInfer", ACM Transactions on Computer Systems (TOCS), 2026.
 + [J13] Yizhou Luo, Jiaxin Lai, Shaohuai Shi, Chen Chen, Shuhan Qi, Jiajia Zhang, **Qiang Wang**, "Castor: Optimizing Deep Learning Job Scheduling in Multi-Tenant GPU Clusters via Intelligent Colocation," IEEE Transactions on Cloud Computing (TCC), 2025.
 + [J12] Yifei Liu, Chen Chen, **Qiang Wang**, Yu Feng, Weihao Cui, Quan Chen, Minyi Guo, "Ares: Fair and Efficient Scheduling of Deep Learning Jobs with Elastic Fair Queuing", ACM Transactions on Architecture and Code Optimization (TACO), 2025.
