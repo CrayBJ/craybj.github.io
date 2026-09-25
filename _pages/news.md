@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 # News
++ \[Sept 2026\] The paper "Route-Consistent Adaptation for Stable Quantization of Mixture-of-Experts Models with Theoretical Guarantees" has been accepted by NeurIPS 2026.
 + \[Sept 2026\] The paper "Dissecting the NVIDIA Hopper Architecture through Microbenchmarking and Multiple Level Analysis" has been accepted by ACM Transactions on Computer Systems (TOCS).
 + \[Aug 2026\] The paper "Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training" has been accepted by Pacific Graphics (PG) 2026. Congratulations to Dr. Yang Yixiong and Sisheng Zhang.
 + \[July 2026\] The paper "SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation" has been accepted by ACMMM 2026.
