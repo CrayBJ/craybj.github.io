@@ -102,6 +102,19 @@ I am **Qiang Wang** (王强), an Associate Professor at Department of Computer S
     + Expert Systems With Applications (ESWA)
     + Journal of System Architecture (JSA)
 
+<div class="visitor-stats" aria-label="Visitor statistics">
+  <div class="visitor-stats__title">Visitor Statistics</div>
+  <div class="visitor-stats__counter">
+    <span>Total visits</span>
+    <a href="https://counter.gratis/?language=en&ID=da1c0f29" title="View visitor statistics">
+      <img class="visitor-stats__count" src="https://besucherzaehler.gratis/counter.php?ID=da1c0f29&STYLE=0" alt="Homepage visitor count" height="23">
+    </a>
+  </div>
+  <a href="https://smallcounter.com/vmap/1790951297/" title="View visitor locations">
+    <img class="visitor-stats__map" src="https://smallcounter.com/map/view.php?type=300&id=1790951297" alt="World map showing visitor locations" loading="lazy">
+  </a>
+</div>
+
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
