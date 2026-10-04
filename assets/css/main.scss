@@ -132,17 +132,10 @@ h1:before, .anchor:before {
 }
 
 .visitor-stats {
-    margin-top: 3rem;
-    padding: 1.25rem 0 3rem;
+    margin-top: 2.5rem;
+    padding: 1.5rem 0 3rem;
     border-top: 1px solid #e5e7eb;
     text-align: center;
-}
-
-.visitor-stats__title {
-    margin-bottom: 0.75rem;
-    color: #4b5563;
-    font-size: 0.85rem;
-    font-weight: 600;
 }
 
 .visitor-stats__map,
@@ -157,8 +150,10 @@ h1:before, .anchor:before {
 }
 
 .visitor-stats__map {
-    width: 300px;
+    width: 360px;
     max-width: 100%;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
 }
 
 .visitor-stats__count {
